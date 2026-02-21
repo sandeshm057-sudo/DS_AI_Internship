@@ -7,6 +7,6 @@ def calci():
  print(a-b)
  print(a*b)
  print(a/b)
- print("above is calci program")
+ print("above is calci program for internship students")
 
 calci()
