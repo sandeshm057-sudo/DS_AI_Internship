@@ -7,6 +7,11 @@ def calci():
  print(a-b)
  print(a*b)
  print(a/b)
- print("above is calci program for kct and pda students")
+<<<<<<< HEAD
+
+=======
+ print("this is the program for intern of shetty college")
+ 
+>>>>>>> feature-calci
 
 calci()
